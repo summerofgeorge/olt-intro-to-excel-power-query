@@ -1,2 +1,3 @@
-# olt-intro-to-excel-power-query
-Resources for course, "Introduction to Excel Power Query"
+# First steps with Power Query for Microsoft Excel
+
+Resources for course, "First steps with Power Query for Microsoft Excel"
